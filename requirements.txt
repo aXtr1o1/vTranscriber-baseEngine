@@ -1,0 +1,10 @@
+elevenlabs
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+requests
+requests-toolbelt
+tqdm
+pydantic
+orjson

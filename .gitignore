@@ -1,0 +1,22 @@
+# ––– Secrets & local overrides ––– #
+.env
+*.env
+
+# ––– Compiled Python byte-code ––– #
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ––– Binary blobs / keys ––– #
+*.bin
+
+# ––– Sample audio you don’t want in Git ––– #
+assets/Samples/
+
+# ––– macOS cruft ––– #
+.DS_Store
+
+# ––– Editor & OS swap files ––– #
+*.swp
+*.swo
+*~
